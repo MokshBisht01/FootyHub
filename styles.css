@@ -1,37 +1,38 @@
-/* Center and position the "Transfer News" heading at the top */
+
 h1 {
-  text-align: center; /* Centers the heading */
-  margin-top: 0; /* Removes default margin at the top */
-  padding-top: 20px; /* Adds padding to ensure it's at the top */
+  text-align: center; 
+  margin-top: 0; 
+  padding-top: 20px; 
 }
 
-/* Style the header and navigation menu */
+
 header {
-  text-align: center; /* Centers the navigation menu */
-  margin-top: 20px; /* Adds space below the heading */
+  text-align: center; 
+  margin-top: 20px; 
 }
 
 nav ul {
-  list-style-type: none; /* Removes bullet points */
-  padding: 0; /* Removes default padding */
-  margin: 0; /* Removes default margin */
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
 }
 
 nav ul li {
-  display: inline-block; /* Displays list items horizontally */
-  margin: 0 15px; /* Adds space between menu items */
+  display: inline-block; 
+  margin: 0 15px; 
 }
 
 nav ul li a {
-  text-decoration: none; /* Removes underline from links */
-  color: #000; /* Sets link color (adjust as needed) */
-  font-weight: bold; /* Makes the text bold */
+  text-decoration: none; 
+  color: #000; 
+  font-weight: bold; 
 }
 
 nav ul li a:hover {
-  color: #007BFF; /* Changes link color on hover (adjust as needed) */
+  color: #007BFF; 
 }
 img {
   display: block;
   margin: 0 auto;
 }
+
